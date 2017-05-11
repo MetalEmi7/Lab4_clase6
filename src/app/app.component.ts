@@ -8,5 +8,5 @@ import { Http, Response } from '@angular/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '_TEST = Funcionando!';
+  title = '!TP = Pizzerias Argentas SRL!';
 }
