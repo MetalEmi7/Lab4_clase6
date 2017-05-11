@@ -1,4 +1,4 @@
-export class persona{
+export class cliente{
     nombre;
     apellido;
     email;
